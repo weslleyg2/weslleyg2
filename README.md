@@ -21,7 +21,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=weslleyg2&repo=strata-project&true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=weslleyg2&repo=Site3d&true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=weslleyg2&repo=Site3d&true&theme=gruvbox)](https://github.com/weslleyg2/Site3d)
 
 # Contact
 <div>
