@@ -8,6 +8,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50px" height="50px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50px" height="50px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45px" height="45px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50px" height="50px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px" height="50px"/>
 
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weslleyg2&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Repositories
@@ -19,6 +20,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=weslleyg2&repo=calculator&true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=weslleyg2&repo=strata-project&true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=weslleyg2&repo=Site3d&true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 # Contact
 <div>
